@@ -1,2 +1,2 @@
 # hello-world
-Welcome to git tuturial
+Welcome to git tuturials. Done!
